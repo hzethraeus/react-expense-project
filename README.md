@@ -1,3 +1,17 @@
+# Just a simple React project
+
+Expense tracker on years.
+Will add:
+ - Possibility to delete expenses
+ - Not accepting e.g. blanks as a title, text as cost.
+ - Some feedback to user when added wrong input.
+ - Maybe more (:
+
+# Hosted on Github Pages
+
+Hosted here:
+https://hzethraeus.github.io/react-expense-project/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
